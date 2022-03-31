@@ -4,7 +4,7 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 
 # Projeto
 
-~> [projeto.ipynb](https://github.com/brunodleite/alura_machine_learning_validacao_modelos/blob/main/k_fold_aleatorizacao.ipynb)
+~> [projeto.ipynb](https://github.com/brunodleite/alura_pandas_tecnicas_avancadas/blob/main/projeto.ipynb)
 
 # Aulas
 ## Começando o trabalho
